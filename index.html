@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="見た夢のキーワードから、今のあなたへのメッセージを読み解く夢占いメディア。" />
+  <title>YUMEMI | わたしを知る夢占い</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="announcement">✦ 今夜の夢を、明日の味方に。毎週月曜に新しい夢キーワードを更新</div>
+  <header class="header">
+    <button class="icon-button menu" aria-label="メニューを開く"><span></span><span></span></button>
+    <a class="logo" href="#"><span>YUME</span>MI<i>dream dictionary</i></a>
+    <nav aria-label="メインナビゲーション">
+      <a href="#search">夢をさがす</a><a href="#popular">人気の夢</a><a href="#column">読みもの</a>
+    </nav>
+    <button class="icon-button search-toggle" aria-label="検索を開く">⌕</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img src="public/dream-hero.png" alt="淡い花とシャボン玉に包まれて眠る女性" />
+      <div class="hero-copy">
+        <p class="eyebrow">DREAMS KNOW YOU</p>
+        <h1>その夢は、<br><em>ほんとうの私</em>からの手紙。</h1>
+        <p>気になる夢の意味を知って、<br>まだ言葉にならない心に会いにいこう。</p>
+        <a class="primary-btn" href="#search">夢を読み解く <span>→</span></a>
+      </div>
+      <p class="scroll">SCROLL <span></span></p>
+    </section>
+
+    <section class="finder" id="search">
+      <div class="section-heading">
+        <p>Dream Keyword</p><h2>夢のキーワードを探す</h2>
+        <span>覚えている言葉をひとつ、入力してみて。</span>
+      </div>
+      <form class="search-box" id="dream-form">
+        <label for="dream-input">どんな夢を見た？</label>
+        <div><input id="dream-input" autocomplete="off" placeholder="例：猫、追いかけられる、海…" /><button type="submit">意味を調べる</button></div>
+      </form>
+      <div class="quick-tags" aria-label="人気の検索ワード">
+        <span>人気ワード</span>
+        <button data-keyword="猫"># 猫</button><button data-keyword="好きな人"># 好きな人</button><button data-keyword="海"># 海</button><button data-keyword="追いかけられる"># 追いかけられる</button><button data-keyword="空を飛ぶ"># 空を飛ぶ</button>
+      </div>
+      <article class="result" id="result" aria-live="polite">
+        <button class="result-close" aria-label="結果を閉じる">×</button>
+        <p class="result-label">YOUR DREAM MESSAGE</p>
+        <div class="result-icon">☾</div>
+        <div><h3 id="result-title"></h3><p id="result-body"></p><p class="result-point"><b>今日のヒント</b><span id="result-hint"></span></p></div>
+      </article>
+    </section>
+
+    <section class="popular" id="popular">
+      <div class="section-heading left">
+        <p>Most Searched</p><h2>みんなが気になる夢</h2>
+        <span>今、よく調べられている夢をピックアップ。</span>
+      </div>
+      <div class="dream-grid">
+        <button class="dream-card coral" data-keyword="好きな人"><span class="rank">01</span><span class="art">♡</span><small>LOVE</small><strong>好きな人が<br>出てくる夢</strong><i>恋愛感情の高まり</i></button>
+        <button class="dream-card blue" data-keyword="追いかけられる"><span class="rank">02</span><span class="art">☁</span><small>FEELING</small><strong>追いかけられる夢</strong><i>焦りとプレッシャー</i></button>
+        <button class="dream-card yellow" data-keyword="空を飛ぶ"><span class="rank">03</span><span class="art">♢</span><small>FUTURE</small><strong>空を飛ぶ夢</strong><i>自由への憧れ</i></button>
+        <button class="dream-card lavender" data-keyword="猫"><span class="rank">04</span><span class="art">♧</span><small>ANIMAL</small><strong>猫が出てくる夢</strong><i>愛されたい気持ち</i></button>
+      </div>
+    </section>
+
+    <section class="mood">
+      <div><p class="eyebrow">HOW DID YOU FEEL?</p><h2>夢の中で、<br>どんな気持ちだった？</h2><p>同じ夢でも、感じた気持ちでメッセージは変わります。今の心にいちばん近いものを選んでみて。</p></div>
+      <div class="mood-buttons">
+        <button data-mood="うれしい"><b>☺</b><span>うれしい</span></button><button data-mood="こわい"><b>☂</b><span>こわい</span></button><button data-mood="かなしい"><b>♢</b><span>かなしい</span></button><button data-mood="不思議"><b>✦</b><span>不思議</span></button>
+      </div>
+    </section>
+
+    <section class="column" id="column">
+      <div class="section-heading"><p>Dream Journal</p><h2>夢と心の読みもの</h2><span>眠りとわたしを、ちょっと好きになるヒント。</span></div>
+      <div class="articles">
+        <article><div class="article-visual pink"><span>☾</span><i>NEW</i></div><small>MIND</small><h3>夢を覚えている人・忘れる人。<br>その違いって？</h3><p>2026.08.10</p></article>
+        <article><div class="article-visual night"><span>✦</span></div><small>SLEEP</small><h3>ぐっすり眠るために、今夜から<br>できる小さな7つのこと</h3><p>2026.08.03</p></article>
+        <article><div class="article-visual peach"><span>♡</span></div><small>LOVE</small><h3>好きな人が夢に出てくるのは、<br>相手も想っているから？</h3><p>2026.07.27</p></article>
+      </div>
+      <button class="more">すべての記事を見る <span>→</span></button>
+    </section>
+  </main>
+
+  <footer><a class="logo" href="#"><span>YUME</span>MI<i>dream dictionary</i></a><p>夢は、昨日の私から今日の私への、小さなお便り。</p><div><a href="#">ABOUT</a><a href="#">PRIVACY</a><a href="#">CONTACT</a></div><small>© 2026 YUMEMI</small></footer>
+  <script src="script.js"></script>
+</body>
+</html>
