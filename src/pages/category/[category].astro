@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { categories, type CategoryKey } from '../../lib';
+export function getStaticPaths() { return Object.keys(categories).map(category => ({ params: { category } })); }
+const key = Astro.params.category as CategoryKey;
+const category = categories[key];
+const articles = (await getCollection('articles', ({ data }) => !data.draft && data.category === key)).sort((a,b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+---
+<BaseLayout title={`${category.name}｜YUMEMI`} description={category.lead}>
+  <section class="page-head"><p class="eyebrow">YUMEMI GUIDE</p><h1>{category.name}</h1><p>{category.lead}</p></section>
+  <section class="section"><div class="article-grid">{articles.map(article => <ArticleCard article={article} />)}</div>{articles.length === 0 && <p class="empty">ただいま記事を準備しています。</p>}</section>
+</BaseLayout>

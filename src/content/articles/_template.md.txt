@@ -1,0 +1,26 @@
+---
+title: "記事タイトル"
+description: "検索結果に表示する30〜160文字の、記事内容が具体的に伝わる要約。"
+category: sleep
+tags: [キーワード]
+publishedAt: 2026-10-19
+updatedAt: 2026-10-19
+author: YUMEMI編集部
+# reviewer: "実在する監修者名・資格（確認済みの場合のみ）"
+featured: false
+draft: true
+related: [nightmare-guide, sleep-quality]
+sources:
+  - title: "資料名｜発行元"
+    url: "https://example.com/"
+---
+
+冒頭で検索意図に簡潔に答えます。
+
+## 見出し
+
+本文。
+
+## 医療機関へ相談する目安
+
+症状が続く場合や生活に支障がある場合の案内を記載します。

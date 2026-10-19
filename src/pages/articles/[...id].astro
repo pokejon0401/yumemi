@@ -1,0 +1,32 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { categories, href } from '../../lib';
+export async function getStaticPaths() {
+  const entries = await getCollection('articles', ({ data }) => !data.draft);
+  return entries.map(entry => ({ params: { id: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const all = await getCollection('articles', ({ data }) => !data.draft);
+const related = entry.data.related.length
+  ? all.filter(item => entry.data.related.includes(item.id)).slice(0, 3)
+  : all.filter(item => item.id !== entry.id && item.data.category === entry.data.category).slice(0, 3);
+const jsonLd = { '@context':'https://schema.org', '@type':'Article', headline:entry.data.title, description:entry.data.description, datePublished:entry.data.publishedAt.toISOString(), dateModified:(entry.data.updatedAt ?? entry.data.publishedAt).toISOString(), author:{'@type':'Organization',name:entry.data.author}, publisher:{'@type':'Organization',name:'YUMEMI'} };
+---
+<BaseLayout title={`${entry.data.title}｜YUMEMI`} description={entry.data.description} image={entry.data.hero}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <div class="breadcrumb"><a href={href('/')}>TOP</a><span>›</span><a href={href(`/category/${entry.data.category}/`)}>{categories[entry.data.category].name}</a><span>›</span><span>{entry.data.title}</span></div>
+  <article class="article-layout">
+    <div class="article-main">
+      <header class="article-head"><p class="eyebrow">{categories[entry.data.category].name}</p><h1>{entry.data.title}</h1><p class="lead">{entry.data.description}</p><div class="byline"><span>執筆：{entry.data.author}</span>{entry.data.reviewer && <span>監修：{entry.data.reviewer}</span>}<time>{entry.data.updatedAt?.toLocaleDateString('ja-JP') ?? entry.data.publishedAt.toLocaleDateString('ja-JP')}</time></div></header>
+      {headings.length > 0 && <nav class="toc" aria-label="目次"><b>この記事の内容</b><ol>{headings.filter(h => h.depth === 2).map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav>}
+      <div class="prose"><Content /></div>
+      {entry.data.sources.length > 0 && <aside class="sources"><h2>参考資料</h2><ul>{entry.data.sources.map(source => <li><a href={source.url} rel="external">{source.title}</a></li>)}</ul></aside>}
+      <aside class="notice">この記事は一般的な情報提供を目的としており、診断・治療の代わりになるものではありません。症状が続く場合や日常生活に支障がある場合は、医療機関へご相談ください。</aside>
+    </div>
+    <aside class="article-side"><div class="side-box"><b>夢と睡眠を記録する</b><p>いつ、どんな夢を見た？ 体調と一緒に残すと変化に気づきやすくなります。</p><span>記録機能は準備中</span></div></aside>
+  </article>
+  {related.length > 0 && <section class="section related"><div class="heading"><p class="eyebrow">READ NEXT</p><h2>次に読みたい記事</h2></div><div class="article-grid">{related.map(item => <ArticleCard article={item} />)}</div></section>}
+</BaseLayout>

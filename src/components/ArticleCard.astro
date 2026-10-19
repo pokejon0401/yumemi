@@ -1,0 +1,14 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { categories, href } from '../lib';
+const { article } = Astro.props as { article: CollectionEntry<'articles'> };
+---
+<article class="article-card">
+  <a href={href(`/articles/${article.id}/`)}>
+    <div class={`card-art ${article.data.category}`}><span>{article.data.category === 'nightmare' ? '☾' : article.data.category === 'dream' ? '✦' : '○'}</span></div>
+    <small>{categories[article.data.category].name}</small>
+    <h3>{article.data.title}</h3>
+    <p>{article.data.description}</p>
+    <time datetime={article.data.publishedAt.toISOString()}>{article.data.publishedAt.toLocaleDateString('ja-JP')}</time>
+  </a>
+</article>
