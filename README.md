@@ -4,7 +4,7 @@
 
 ## ローカル開発
 
-Node.js 20以上を用意して実行します。
+Node.js 24を用意して実行します。
 
 ```bash
 npm install
