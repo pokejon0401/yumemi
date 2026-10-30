@@ -4,7 +4,7 @@ description: "夢の意味が気になるときの調べ方を案内します。
 category: dream
 tags: [夢の意味, 夢占い, 夢占い一覧, 悪夢]
 publishedAt: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 author: YUMEMI編集部
 featured: false
 draft: false
@@ -30,6 +30,9 @@ sources:
 | 地面が揺れる・地震から逃げる | [地震の夢の意味と、予知への不安](/articles/earthquake-dream/) |
 | 津波から逃げる・高い場所にいる | [津波の夢の場面別の振り返り方](/articles/tsunami-dream/) |
 | 高い場所・階段などから落ちる | [落ちる夢と、寝入りばなのぴくつきの違い](/articles/falling-dream/) |
+| 事故を起こす・遭う・目撃する | [交通事故の夢の立場別の振り返り方](/articles/traffic-accident-dream/) |
+| 仕事や試験・待ち合わせに遅れる | [遅刻する夢の意味と、朝の焦り](/articles/late-dream/) |
+| 家族や恋人などが夢の中で亡くなる | [人が死ぬ夢と、悲しさが残るときの過ごし方](/articles/someone-dies-dream/) |
 | 怖い夢全般 | [怖い夢・悪夢を見る原因と対処法](/articles/nightmare-guide/)（睡眠・健康の説明） |
 | 登場人物は違うが、似た怖い展開が続く | [同じ悪夢を繰り返すとき](/articles/recurring-nightmares/)（睡眠・健康の説明） |
 

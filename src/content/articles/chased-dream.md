@@ -4,7 +4,7 @@ description: "追いかけられる夢が気になる人へ。知らない人・
 category: dream
 tags: [追いかけられる夢, 逃げる夢, 夢占い, 悪夢]
 publishedAt: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 author: YUMEMI編集部
 featured: true
 draft: false
@@ -110,6 +110,8 @@ NHSは、悪夢が繰り返し起き、睡眠や日常生活に影響してい�
 相談先に迷ったら[悪夢は何科に相談する？](/articles/nightmare-clinic/)をご覧ください。相談のために夢を細部まで思い出したり、占いの意味を調べたりする必要はありません。
 
 ## よくある質問
+
+時間に追われる場面なら[遅刻する夢](/articles/late-dream/)、車で逃げる途中の事故なら[交通事故の夢](/articles/traffic-accident-dream/)、誰かを失う場面が残っているなら[人が死ぬ夢](/articles/someone-dies-dream/)でも振り返れます。
 
 追われる途中で別の場面も気になった人は、[殺される・殺されそうになる夢](/articles/killed-dream/)、[火事から逃げる夢](/articles/fire-dream/)、[歯が抜ける夢](/articles/teeth-falling-out-dream/)から、特に印象に残った内容を選んで読めます。
 

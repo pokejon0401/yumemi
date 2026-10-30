@@ -4,7 +4,7 @@ description: "落ちる夢の意味が気になる人へ。高い場所・階段
 category: dream
 tags: [落ちる夢, 高いところから落ちる夢, 夢占い, 入眠時ぴくつき]
 publishedAt: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 author: YUMEMI編集部
 featured: false
 draft: false
@@ -77,6 +77,8 @@ Royal Papworth Hospitalは、眠りに入る際に体や脚が急に動く「sle
 また、NHSは、繰り返す悪夢が睡眠や日常生活に影響する場合に相談を勧めています。夢の後に眠れない場合は[悪夢の直後の過ごし方](/articles/sleep-after-nightmare/)、相談先は[悪夢は何科に相談する？](/articles/nightmare-clinic/)をご覧ください。
 
 ## よくある質問
+
+車や乗り物の事故を伴う場面が気になる場合は、[交通事故の夢を立場別に振り返る記事](/articles/traffic-accident-dream/)も読めます。
 
 ### 落ちる夢は成長している証拠ですか？
 

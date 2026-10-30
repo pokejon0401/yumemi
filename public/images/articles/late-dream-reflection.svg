@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">遅刻する夢を三つの視点で振り返る</title>
+  <desc id="desc">行き先、間に合わない理由、残った気持ちを分けます。夢の時刻と今日の予定も別に確認します。</desc>
+  <rect width="720" height="620" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">夢の焦りを、三つに分けてみる</text>
+    <rect x="40" y="102" width="640" height="128" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="150" font-size="25" font-weight="bold">行き先</text>
+    <text x="68" y="193" font-size="22">仕事・学校・試験・待ち合わせ…</text>
+    <rect x="40" y="250" width="640" height="128" rx="20" fill="#e2ece7"/>
+    <text x="68" y="298" font-size="25" font-weight="bold">間に合わない理由</text>
+    <text x="68" y="341" font-size="22">準備・忘れ物・乗り遅れ・道に迷う…</text>
+    <rect x="40" y="398" width="640" height="128" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="446" font-size="25" font-weight="bold">残った気持ち</text>
+    <text x="68" y="489" font-size="22">焦り・驚き・安堵・不思議さ…</text>
+    <text x="48" y="568" font-size="18" fill="#71686d">夢の時刻と、今日の予定は分けて確認しましょう。</text>
+    <text x="48" y="600" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>

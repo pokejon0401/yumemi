@@ -4,7 +4,7 @@ description: "殺される夢や殺されそうになる夢で不安な人へ。
 category: dream
 tags: [殺される夢, 殺されそうになる夢, 夢占い, 悪夢]
 publishedAt: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: 2026-10-31
 author: YUMEMI編集部
 featured: false
 draft: false
@@ -79,6 +79,8 @@ NHSは、定期的な悪夢が睡眠や日常生活に影響している場合�
 何度も同じ展開になるときは[繰り返す悪夢の考え方](/articles/recurring-nightmares/)、相談先に迷ったら[悪夢は何科に相談する？](/articles/nightmare-clinic/)をご覧ください。
 
 ## よくある質問
+
+自分ではなく、家族や恋人などが亡くなる展開が気になる場合は、[人が死ぬ夢と悲しさへの対処](/articles/someone-dies-dream/)も参考になります。
 
 ### 殺される夢は「逆夢」で、よいことが起きるのですか？
 
