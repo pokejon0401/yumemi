@@ -6,6 +6,8 @@ tags: [追いかけられる夢, 逃げる夢, 夢占い, 悪夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/chased-dream.jpg"
+thumbnail: "/images/thumbnails/chased-dream-600.jpg"
 featured: true
 draft: false
 related: [dream-meaning-guide, sleep-after-nightmare, recurring-nightmares]

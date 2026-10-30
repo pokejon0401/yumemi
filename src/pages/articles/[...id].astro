@@ -13,7 +13,7 @@ const all = await getCollection('articles', ({ data }) => !data.draft);
 const related = entry.data.related.length
   ? entry.data.related.flatMap(id => all.filter(item => item.id === id && item.id !== entry.id)).slice(0, 3)
   : all.filter(item => item.id !== entry.id && item.data.category === entry.data.category).slice(0, 3);
-const jsonLd = { '@context':'https://schema.org', '@type':'Article', headline:entry.data.title, description:entry.data.description, datePublished:entry.data.publishedAt.toISOString(), dateModified:(entry.data.updatedAt ?? entry.data.publishedAt).toISOString(), author:{'@type':'Organization',name:entry.data.author}, publisher:{'@type':'Organization',name:'YUMEMI'} };
+const jsonLd = { '@context':'https://schema.org', '@type':'Article', headline:entry.data.title, description:entry.data.description, image:entry.data.hero ? [new URL(href(entry.data.hero), Astro.site).href] : undefined, datePublished:entry.data.publishedAt.toISOString(), dateModified:(entry.data.updatedAt ?? entry.data.publishedAt).toISOString(), author:{'@type':'Organization',name:entry.data.author}, publisher:{'@type':'Organization',name:'YUMEMI'} };
 ---
 <BaseLayout title={`${entry.data.title}｜YUMEMI`} description={entry.data.description} image={entry.data.hero}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

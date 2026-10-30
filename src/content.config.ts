@@ -13,6 +13,7 @@ const articles = defineCollection({
     author: z.string().default('YUMEMI編集部'),
     reviewer: z.string().optional(),
     hero: z.string().optional(),
+    thumbnail: z.string().optional(),
     featured: z.boolean().default(false),
     draft: z.boolean().default(true),
     related: z.array(z.string()).max(6).default([]),

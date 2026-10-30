@@ -6,6 +6,8 @@ tags: [悪夢, 夜驚, 金縛り, 睡眠時随伴症]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/nightmare-vs-night-terror.jpg"
+thumbnail: "/images/thumbnails/nightmare-vs-night-terror-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, daily-nightmares, nightmare-clinic, sleep-after-nightmare]

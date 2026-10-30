@@ -6,6 +6,8 @@ tags: [津波の夢, 夢占い津波, 津波から逃げる夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/tsunami-dream.jpg"
+thumbnail: "/images/thumbnails/tsunami-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, earthquake-dream, dream-meaning-guide]

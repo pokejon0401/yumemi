@@ -6,6 +6,8 @@ tags: [睡眠の質, 眠りが浅い, セルフケア]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-19
 author: YUMEMI編集部
+hero: "/images/thumbnails/sleep-quality.jpg"
+thumbnail: "/images/thumbnails/sleep-quality-600.jpg"
 featured: true
 draft: false
 related: [nightmare-guide, dream-journal, daily-nightmares, sleep-after-nightmare]

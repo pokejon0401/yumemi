@@ -6,6 +6,8 @@ tags: [好きな人が出てくる夢, 夢占い恋愛, 好きな人の夢]
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/crush-dream.jpg"
+thumbnail: "/images/thumbnails/crush-dream-600.jpg"
 featured: false
 draft: false
 related: [dream-meaning-guide, cheating-dream, dream-journal]

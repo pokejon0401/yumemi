@@ -6,6 +6,8 @@ tags: [殺される夢, 殺されそうになる夢, 夢占い, 悪夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/killed-dream.jpg"
+thumbnail: "/images/thumbnails/killed-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-meaning-guide, sleep-after-nightmare]

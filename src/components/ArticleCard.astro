@@ -5,7 +5,21 @@ const { article } = Astro.props as { article: CollectionEntry<'articles'> };
 ---
 <article class="article-card">
   <a href={href(`/articles/${article.id}/`)}>
-    <div class={`card-art ${article.data.category}`}><span>{article.data.category === 'nightmare' ? '☾' : article.data.category === 'dream' ? '✦' : '○'}</span></div>
+    {article.data.hero ? (
+      <img
+        class="article-card-image"
+        src={href(article.data.thumbnail ?? article.data.hero)}
+        srcset={article.data.thumbnail ? `${href(article.data.thumbnail)} 600w, ${href(article.data.hero)} 1200w` : undefined}
+        sizes="(max-width: 800px) 88vw, (max-width: 1160px) 28vw, 340px"
+        alt=""
+        width="1200"
+        height="800"
+        loading="lazy"
+        decoding="async"
+      />
+    ) : (
+      <div class={`card-art ${article.data.category}`}><span>{article.data.category === 'nightmare' ? '☾' : article.data.category === 'dream' ? '✦' : '○'}</span></div>
+    )}
     <small>{categories[article.data.category].name}</small>
     <h3>{article.data.title}</h3>
     <p>{article.data.description}</p>

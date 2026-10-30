@@ -6,6 +6,8 @@ tags: [交通事故の夢, 夢占い交通事故, 事故を起こす夢]
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/traffic-accident-dream.jpg"
+thumbnail: "/images/thumbnails/traffic-accident-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, falling-dream, dream-meaning-guide]

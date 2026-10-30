@@ -6,6 +6,8 @@ tags: [悪夢, 怖い夢, 睡眠の質]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/nightmare-guide.jpg"
+thumbnail: "/images/thumbnails/nightmare-guide-600.jpg"
 featured: true
 draft: false
 related: [daily-nightmares, recurring-nightmares, sleep-after-nightmare, nightmare-vs-night-terror, nightmare-clinic, sleep-quality]

@@ -6,6 +6,8 @@ tags: [毎日悪夢を見る, 悪夢, 睡眠障害]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/daily-nightmares.jpg"
+thumbnail: "/images/thumbnails/daily-nightmares-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, recurring-nightmares, nightmare-clinic, dream-journal]

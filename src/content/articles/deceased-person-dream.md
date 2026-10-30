@@ -6,6 +6,8 @@ tags: [亡くなった人の夢, 死んだ人が出てくる夢, 夢占い, 故�
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/deceased-person-dream.jpg"
+thumbnail: "/images/thumbnails/deceased-person-dream-600.jpg"
 featured: false
 draft: false
 related: [dream-meaning-guide, someone-dies-dream, dream-journal]

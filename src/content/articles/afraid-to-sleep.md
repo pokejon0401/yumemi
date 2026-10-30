@@ -6,6 +6,8 @@ tags: [悪夢怖くて眠れない, 眠るのが怖い, 悪夢相談]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/afraid-to-sleep.jpg"
+thumbnail: "/images/thumbnails/afraid-to-sleep-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, sleep-after-nightmare, nightmare-clinic]

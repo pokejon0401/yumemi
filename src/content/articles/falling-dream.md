@@ -6,6 +6,8 @@ tags: [落ちる夢, 高いところから落ちる夢, 夢占い, 入眠時ぴ�
 publishedAt: 2026-10-30
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/falling-dream.jpg"
+thumbnail: "/images/thumbnails/falling-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-meaning-guide, nightmare-vs-night-terror]

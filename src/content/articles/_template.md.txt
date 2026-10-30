@@ -6,6 +6,8 @@ tags: [キーワード]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-19
 author: YUMEMI編集部
+hero: "/images/thumbnails/<english-slug>.jpg"
+thumbnail: "/images/thumbnails/<english-slug>-600.jpg"
 # reviewer: "実在する監修者名・資格（確認済みの場合のみ）"
 featured: false
 draft: true

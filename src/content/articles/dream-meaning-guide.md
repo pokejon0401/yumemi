@@ -6,6 +6,8 @@ tags: [夢の意味, 夢占い, 夢占い一覧, 悪夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/dream-meaning-guide.jpg"
+thumbnail: "/images/thumbnails/dream-meaning-guide-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-journal, nightmare-guide]

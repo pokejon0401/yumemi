@@ -6,6 +6,8 @@ tags: [悪夢を見ない方法, 悪夢減らす, 睡眠習慣]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/reduce-nightmares.jpg"
+thumbnail: "/images/thumbnails/reduce-nightmares-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, afraid-to-sleep, sleep-after-nightmare]

@@ -6,6 +6,8 @@ tags: [人が死ぬ夢, 家族が死ぬ夢, 夢占い死, 恋人が死ぬ夢]
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/someone-dies-dream.jpg"
+thumbnail: "/images/thumbnails/someone-dies-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, killed-dream, dream-meaning-guide]

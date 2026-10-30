@@ -6,6 +6,8 @@ tags: [地震の夢, 夢占い地震, 地震予知夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/earthquake-dream.jpg"
+thumbnail: "/images/thumbnails/earthquake-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, tsunami-dream, dream-meaning-guide]

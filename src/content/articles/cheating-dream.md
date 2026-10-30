@@ -6,6 +6,8 @@ tags: [浮気する夢, 浮気される夢, 夢占い浮気]
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/cheating-dream.jpg"
+thumbnail: "/images/thumbnails/cheating-dream-600.jpg"
 featured: false
 draft: false
 related: [dream-meaning-guide, crush-dream, chased-dream]

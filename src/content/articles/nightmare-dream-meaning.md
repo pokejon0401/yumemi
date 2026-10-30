@@ -6,6 +6,8 @@ tags: [悪夢夢占い, 怖い夢意味, 悪夢前兆]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/nightmare-dream-meaning.jpg"
+thumbnail: "/images/thumbnails/nightmare-dream-meaning-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-meaning-guide, afraid-to-sleep]

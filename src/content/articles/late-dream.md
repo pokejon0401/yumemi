@@ -6,6 +6,8 @@ tags: [遅刻する夢, 夢占い遅刻, 間に合わない夢, 電車に乗り�
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
 author: YUMEMI編集部
+hero: "/images/thumbnails/late-dream.jpg"
+thumbnail: "/images/thumbnails/late-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-meaning-guide, reduce-nightmares]

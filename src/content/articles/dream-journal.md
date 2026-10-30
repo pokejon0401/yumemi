@@ -6,6 +6,8 @@ tags: [夢日記, 睡眠記録, 悪夢]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/dream-journal.jpg"
+thumbnail: "/images/thumbnails/dream-journal-600.jpg"
 featured: true
 draft: false
 related: [nightmare-guide, sleep-quality, daily-nightmares, recurring-nightmares]

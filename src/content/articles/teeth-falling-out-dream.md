@@ -6,6 +6,8 @@ tags: [歯が抜ける夢, 夢占い, 前歯が抜ける夢, 歯ぎしり]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/teeth-falling-out-dream.jpg"
+thumbnail: "/images/thumbnails/teeth-falling-out-dream-600.jpg"
 featured: false
 draft: false
 related: [dream-meaning-guide, chased-dream, dream-journal]

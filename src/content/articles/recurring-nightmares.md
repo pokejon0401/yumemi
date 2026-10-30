@@ -6,6 +6,8 @@ tags: [同じ夢, 繰り返す悪夢, ストレス]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/recurring-nightmares.jpg"
+thumbnail: "/images/thumbnails/recurring-nightmares-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, daily-nightmares, dream-journal, nightmare-clinic]

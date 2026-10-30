@@ -1,3 +1,23 @@
+.article-card {
+  min-width: 0;
+}
+
+.article-card-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 12px;
+  background: var(--cream);
+  transition: filter .2s ease;
+}
+
+.article-card a:hover .article-card-image {
+  filter: brightness(1.03);
+}
+
 .prose figure {
   margin: 32px 0;
 }

@@ -5,6 +5,8 @@ category: nightmare
 tags: [悪夢 何科, 睡眠外来, 悪夢障害]
 publishedAt: 2026-10-19
 author: YUMEMI編集部
+hero: "/images/thumbnails/nightmare-clinic.jpg"
+thumbnail: "/images/thumbnails/nightmare-clinic-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, daily-nightmares, nightmare-vs-night-terror, dream-journal]

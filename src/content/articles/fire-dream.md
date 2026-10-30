@@ -6,6 +6,8 @@ tags: [火事の夢, 夢占い火事, 家が燃える夢, 悪夢]
 publishedAt: 2026-10-30
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/fire-dream.jpg"
+thumbnail: "/images/thumbnails/fire-dream-600.jpg"
 featured: false
 draft: false
 related: [chased-dream, dream-meaning-guide, recurring-nightmares]

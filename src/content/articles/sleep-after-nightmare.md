@@ -6,6 +6,8 @@ tags: [悪夢の後眠れない, 怖い夢, 夜中に目が覚める]
 publishedAt: 2026-10-19
 updatedAt: 2026-10-30
 author: YUMEMI編集部
+hero: "/images/thumbnails/sleep-after-nightmare.jpg"
+thumbnail: "/images/thumbnails/sleep-after-nightmare-600.jpg"
 featured: false
 draft: false
 related: [nightmare-guide, sleep-quality, daily-nightmares, nightmare-clinic]
