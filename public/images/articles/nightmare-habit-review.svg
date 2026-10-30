@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="780" viewBox="0 0 720 780" role="img" aria-labelledby="title desc">
+  <title id="title">眠りの習慣を無理なく振り返る流れ</title>
+  <desc id="desc">一つ選ぶ、試す、振り返る。悪夢の有無だけで採点せず、困りごとが続く場合は改善を待たず相談できます。</desc>
+  <rect width="720" height="780" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">一つ選んで、眠りを振り返る</text>
+    <rect x="40" y="104" width="640" height="148" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="151" font-size="19" fill="#73515d">01  選ぶ</text>
+    <text x="68" y="198" font-size="25" font-weight="bold">変えられそうな習慣を一つ</text>
+    <rect x="40" y="274" width="640" height="148" rx="20" fill="#e2ece7"/>
+    <text x="68" y="321" font-size="19" fill="#48665a">02  試す</text>
+    <text x="68" y="368" font-size="25" font-weight="bold">無理のない範囲で取り入れる</text>
+    <rect x="40" y="444" width="640" height="148" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="491" font-size="19" fill="#68577c">03  振り返る</text>
+    <text x="68" y="538" font-size="25" font-weight="bold">朝の休養感・日中の過ごしやすさ</text>
+    <text x="48" y="647" font-size="21" font-weight="bold">困りごとが続く場合は、相談へ。</text>
+    <text x="48" y="687" font-size="19" fill="#71686d">習慣の改善を、受診の条件にしなくて大丈夫。</text>
+    <text x="48" y="731" font-size="18" fill="#71686d">悪夢を見たかどうかだけで、成功・失敗を決めません。</text>
+    <text x="48" y="762" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">夢・解釈・現実を分けて考える</title>
+  <desc id="desc">夢で見たこと、読んだ解釈、現実に確認できることは別々です。夢や解釈を現実の出来事と決めつけないための整理図です。</desc>
+  <rect width="720" height="620" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">夢・解釈・現実を分けて考える</text>
+    <rect x="40" y="102" width="640" height="128" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="150" font-size="25" font-weight="bold">夢で見たこと</text>
+    <text x="68" y="193" font-size="22">追われた、逃げた、怖かった…</text>
+    <rect x="40" y="250" width="640" height="128" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="298" font-size="25" font-weight="bold">読んだ解釈</text>
+    <text x="68" y="341" font-size="22">意味を考えるための、一つの読み方</text>
+    <rect x="40" y="398" width="640" height="128" rx="20" fill="#e2ece7"/>
+    <text x="68" y="446" font-size="25" font-weight="bold">現実に確認できること</text>
+    <text x="68" y="489" font-size="22">今いる場所、眠りや生活の困りごと</text>
+    <text x="48" y="568" font-size="18" fill="#71686d">夢の場面や解釈を、現実の出来事と決めつけなくて大丈夫。</text>
+    <text x="48" y="600" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>

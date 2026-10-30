@@ -4,11 +4,14 @@ description: "怖い夢で目が覚めて眠れない夜に、安全を確認し
 category: nightmare
 tags: [悪夢の後眠れない, 怖い夢, 夜中に目が覚める]
 publishedAt: 2026-10-19
+updatedAt: 2026-10-30
 author: YUMEMI編集部
 featured: false
 draft: false
 related: [nightmare-guide, sleep-quality, daily-nightmares, nightmare-clinic]
 sources:
+  - title: "Insomnia - Treatment｜米国国立心肺血液研究所（NHLBI）"
+    url: "https://www.nhlbi.nih.gov/health/insomnia/treatment"
   - title: "寝ても疲れが取れないなら要チェック！あなたの睡眠の質 大丈夫ですか？｜厚生労働省"
     url: "https://kennet.mhlw.go.jp/slp/event/sleep_quality/index.html"
   - title: "良質な睡眠をとる｜こころの耳・厚生労働省"
@@ -29,7 +32,7 @@ sources:
 
 しばらくしても眠気が戻らず、焦りが強くなる場合は、いったん寝床を離れます。暗めで静かな場所で、紙の本を少し読む、穏やかな音を聞くなど刺激の少ないことをして、眠気が戻ってから寝床へ戻ります。
 
-厚生労働省の睡眠情報でも、寝床で考え事をせず、眠れないときは寝床を離れて静かで暗めの場所で眠気を待つ方法が案内されています。
+米国のNHLBIは不眠の治療に関する説明で、眠れないときは寝床を離れ、眠くなったときに寝床を使う方法を紹介しています。[NHLBIの説明](https://www.nhlbi.nih.gov/health/insomnia/treatment)
 
 ## 避けたいこと
 

@@ -23,6 +23,7 @@ sources:
 | 気になる内容 | 読む記事 |
 |---|---|
 | 追いかけられる・逃げる・捕まる | [追いかけられる夢の意味と、怖さが残るときの対処](/articles/chased-dream/) |
+| 悪夢の吉凶や前兆が気になる | [悪夢の夢占いと、不安になる解釈との付き合い方](/articles/nightmare-dream-meaning/) |
 | 殺される・殺されそうになる | [殺される夢の相手・結末別の振り返り方](/articles/killed-dream/) |
 | 前歯・奥歯などが抜ける | [歯が抜ける夢の意味と、口の違和感の確認](/articles/teeth-falling-out-dream/) |
 | 自宅や実家が燃える・火事から逃げる | [火事の夢の場所・行動別の振り返り方](/articles/fire-dream/) |
@@ -32,6 +33,8 @@ sources:
 ## 目覚めた今の気持ちから探す
 
 - **怖くて寝直せない**：[悪夢を見た後に眠れないときの過ごし方](/articles/sleep-after-nightmare/)
+- **寝る前から怖くて眠りたくない**：[悪夢が怖くて眠れない夜に](/articles/afraid-to-sleep/)
+- **今夜からの習慣を見直したい**：[悪夢を減らすためにできること](/articles/reduce-nightmares/)
 - **毎日のように見て困っている**：[毎日悪夢を見る原因と相談の目安](/articles/daily-nightmares/)
 - **声が出る・体が動かないなども気になる**：[悪夢・夜驚・金縛りの違い](/articles/nightmare-vs-night-terror/)
 - **自分の夢の傾向を残したい**：[夢日記の書き方](/articles/dream-journal/)
