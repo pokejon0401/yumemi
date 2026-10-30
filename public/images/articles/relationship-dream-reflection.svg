@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">夢の場面・今の気持ち・現実の事実を分ける</title>
+  <desc id="desc">夢で見たことと、目覚めた後の気持ち、現実に確認できることを分けて考えます。相手の本心を判定する図ではありません。</desc>
+  <rect width="720" height="620" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">夢と、今の気持ちと、現実を分ける</text>
+    <rect x="40" y="102" width="640" height="128" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="150" font-size="25" font-weight="bold">夢で見た場面</text>
+    <text x="68" y="193" font-size="22">相手の態度、せりふ、出来事…</text>
+    <rect x="40" y="250" width="640" height="128" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="298" font-size="25" font-weight="bold">今残っている気持ち</text>
+    <text x="68" y="341" font-size="22">うれしい、寂しい、戸惑う、不安…</text>
+    <rect x="40" y="398" width="640" height="128" rx="20" fill="#e2ece7"/>
+    <text x="68" y="446" font-size="25" font-weight="bold">現実に確認できること</text>
+    <text x="68" y="489" font-size="22">実際の会話や出来事を基に考える</text>
+    <text x="48" y="568" font-size="18" fill="#71686d">夢から相手の本心や行動を決めつける図ではありません。</text>
+    <text x="48" y="600" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>
