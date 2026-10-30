@@ -33,4 +33,4 @@ src/content/articles/nightmare-after-drinking.md
 
 `main` へのpushで `.github/workflows/deploy.yml` がAstroをビルドし、GitHub Pagesへ公開します。GitHubのリポジトリ設定で Pages のSourceを **GitHub Actions** にしてください。
 
-公開URL：<https://pokejon0401.github.io/yumemi/>
+公開URL：<https://yumemi-official.com/>
