@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="780" viewBox="0 0 720 780" role="img" aria-labelledby="title desc">
+  <title id="title">歯の夢・口の症状・睡眠の困りごとを分ける図</title>
+  <desc id="desc">夢の内容は気持ちの振り返りへ、現実の歯やあごの症状は歯科へ、悪夢による睡眠や生活への影響は医療機関への相談へ。診断のための図ではありません。</desc>
+  <rect width="720" height="780" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">夢と、目覚めた後の症状を分ける</text>
+    <rect x="40" y="104" width="640" height="172" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="149" font-size="19" fill="#73515d">01  夢の内容が気になる</text>
+    <text x="68" y="191" font-size="25" font-weight="bold">どんな気持ちが残った？</text>
+    <text x="68" y="235" font-size="20">意味を決めつけず、短く振り返る</text>
+    <rect x="40" y="300" width="640" height="172" rx="20" fill="#e2ece7"/>
+    <text x="68" y="345" font-size="19" fill="#48665a">02  歯・あごの痛みなどがある</text>
+    <text x="68" y="387" font-size="25" font-weight="bold">現実の症状を歯科に伝える</text>
+    <text x="68" y="431" font-size="20">夢だけで歯ぎしりや病気を診断しない</text>
+    <rect x="40" y="496" width="640" height="172" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="541" font-size="19" fill="#68577c">03  悪夢で眠りや日中の生活がつらい</text>
+    <text x="68" y="583" font-size="25" font-weight="bold">眠りの困りごとを相談する</text>
+    <text x="68" y="627" font-size="20">夢を詳しく再現する必要はありません</text>
+    <text x="48" y="724" font-size="18" fill="#71686d">複数が当てはまることもあります。診断表ではありません。</text>
+    <text x="48" y="756" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>

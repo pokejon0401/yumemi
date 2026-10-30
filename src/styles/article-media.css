@@ -1,0 +1,38 @@
+.prose figure {
+  margin: 32px 0;
+}
+
+.prose img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+}
+
+.prose figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.prose th,
+.prose td {
+  min-width: 130px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose th {
+  background: var(--cream);
+}

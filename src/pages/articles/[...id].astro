@@ -11,7 +11,7 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const all = await getCollection('articles', ({ data }) => !data.draft);
 const related = entry.data.related.length
-  ? all.filter(item => entry.data.related.includes(item.id)).slice(0, 3)
+  ? entry.data.related.flatMap(id => all.filter(item => item.id === id && item.id !== entry.id)).slice(0, 3)
   : all.filter(item => item.id !== entry.id && item.data.category === entry.data.category).slice(0, 3);
 const jsonLd = { '@context':'https://schema.org', '@type':'Article', headline:entry.data.title, description:entry.data.description, datePublished:entry.data.publishedAt.toISOString(), dateModified:(entry.data.updatedAt ?? entry.data.publishedAt).toISOString(), author:{'@type':'Organization',name:entry.data.author}, publisher:{'@type':'Organization',name:'YUMEMI'} };
 ---
