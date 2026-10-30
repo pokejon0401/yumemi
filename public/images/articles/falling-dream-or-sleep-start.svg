@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="780" viewBox="0 0 720 780" role="img" aria-labelledby="title desc">
+  <title id="title">落ちる夢と体の動きを分けて考える</title>
+  <desc id="desc">夢の筋書き、眠りかけのぴくつき、実際の転落や困る動きを区別して振り返ります。症状を診断する図ではありません。</desc>
+  <rect width="720" height="780" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">落ちる夢と、体の動きを分ける</text>
+    <rect x="40" y="104" width="640" height="172" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="149" font-size="19" fill="#73515d">夢の筋書きとして落ちた</text>
+    <text x="68" y="191" font-size="25" font-weight="bold">場所・展開・気持ちを振り返る</text>
+    <text x="68" y="235" font-size="20">夢だけで現実の失敗や危険は決めません</text>
+    <rect x="40" y="300" width="640" height="172" rx="20" fill="#e2ece7"/>
+    <text x="68" y="345" font-size="19" fill="#48665a">眠りかけに落ちる感じと、ビクッ</text>
+    <text x="68" y="387" font-size="25" font-weight="bold">いつ起きたかを分かる範囲で記録</text>
+    <text x="68" y="431" font-size="20">寝入りばなのぴくつきの説明は本文へ</text>
+    <rect x="40" y="496" width="640" height="172" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="541" font-size="19" fill="#68577c">実際の転落・繰り返す動きで困る</text>
+    <text x="68" y="583" font-size="25" font-weight="bold">安全と、医療機関への相談を優先</text>
+    <text x="68" y="627" font-size="20">自己判断で動きの種類を決めなくて大丈夫</text>
+    <text x="48" y="724" font-size="18" fill="#71686d">当てはまる病気を判定する図ではありません。</text>
+    <text x="48" y="756" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>

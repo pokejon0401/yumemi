@@ -27,6 +27,9 @@ sources:
 | 殺される・殺されそうになる | [殺される夢の相手・結末別の振り返り方](/articles/killed-dream/) |
 | 前歯・奥歯などが抜ける | [歯が抜ける夢の意味と、口の違和感の確認](/articles/teeth-falling-out-dream/) |
 | 自宅や実家が燃える・火事から逃げる | [火事の夢の場所・行動別の振り返り方](/articles/fire-dream/) |
+| 地面が揺れる・地震から逃げる | [地震の夢の意味と、予知への不安](/articles/earthquake-dream/) |
+| 津波から逃げる・高い場所にいる | [津波の夢の場面別の振り返り方](/articles/tsunami-dream/) |
+| 高い場所・階段などから落ちる | [落ちる夢と、寝入りばなのぴくつきの違い](/articles/falling-dream/) |
 | 怖い夢全般 | [怖い夢・悪夢を見る原因と対処法](/articles/nightmare-guide/)（睡眠・健康の説明） |
 | 登場人物は違うが、似た怖い展開が続く | [同じ悪夢を繰り返すとき](/articles/recurring-nightmares/)（睡眠・健康の説明） |
 

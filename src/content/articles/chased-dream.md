@@ -111,7 +111,9 @@ NHSは、悪夢が繰り返し起き、睡眠や日常生活に影響してい�
 
 ## よくある質問
 
-追われる途中で別の場面も気になった人は、[殺される・殺されそうになる夢](/articles/killed-dream/)、[火事から逃げる夢](/articles/fire-dream/)、[歯が抜ける夢](/articles/teeth-falling-out-dream/)から、特に印象に残った内容を選んで読めます。すべての意味を調べる必要はありません。
+追われる途中で別の場面も気になった人は、[殺される・殺されそうになる夢](/articles/killed-dream/)、[火事から逃げる夢](/articles/fire-dream/)、[歯が抜ける夢](/articles/teeth-falling-out-dream/)から、特に印象に残った内容を選んで読めます。
+
+逃げていた理由が災害なら[地震の夢](/articles/earthquake-dream/)や[津波の夢](/articles/tsunami-dream/)、途中で足を踏み外した場面が気になるなら[落ちる夢](/articles/falling-dream/)でも振り返れます。すべての意味を調べる必要はありません。
 
 ### 追いかけられる夢は吉夢ですか、凶夢ですか？
 

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">災害の夢と現実の備えを分ける</title>
+  <desc id="desc">夢の場面は気持ちの振り返りへ、現実の備えは公的な防災情報へ、眠りへの影響は相談へ。夢から災害を予測する図ではありません。</desc>
+  <rect width="720" height="620" rx="24" fill="#fff9f6"/>
+  <g font-family="sans-serif" fill="#29252b">
+    <text x="48" y="68" font-size="28" font-weight="bold">夢の印象と、現実の行動を分ける</text>
+    <rect x="40" y="102" width="640" height="128" rx="20" fill="#f5e0e5"/>
+    <text x="68" y="150" font-size="25" font-weight="bold">夢の場面・残った気持ち</text>
+    <text x="68" y="193" font-size="22">覚えている範囲で振り返る</text>
+    <rect x="40" y="250" width="640" height="128" rx="20" fill="#e2ece7"/>
+    <text x="68" y="298" font-size="25" font-weight="bold">現実の備え・危険への対応</text>
+    <text x="68" y="341" font-size="22">気象庁・自治体などの公的情報を使う</text>
+    <rect x="40" y="398" width="640" height="128" rx="20" fill="#e9e4f0"/>
+    <text x="68" y="446" font-size="25" font-weight="bold">眠りや日常生活への影響</text>
+    <text x="68" y="489" font-size="22">困りごとが続くときは相談する</text>
+    <text x="48" y="568" font-size="18" fill="#71686d">夢の内容を、災害の日時や規模の予測には使いません。</text>
+    <text x="48" y="600" font-size="16" fill="#71686d">YUMEMI 編集部作成</text>
+  </g>
+</svg>
