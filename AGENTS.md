@@ -4,6 +4,7 @@ This repository is an Astro content site for Japanese adult women concerned abou
 
 ## Before editing
 
+- Read `docs/MARKETING_STRATEGY.md` before proposing or creating articles; preserve the audience, priority queries, and pillar-link strategy.
 - Read `docs/EDITORIAL.md` before creating or changing health content.
 - Run `npm install` when dependencies are missing, then `npm run build` before committing.
 - Do not edit generated `dist/` files.

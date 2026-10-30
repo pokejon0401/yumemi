@@ -4,7 +4,7 @@ description: "夢の内容だけでなく、睡眠時間、目覚めた気分、
 category: dream
 tags: [夢日記, 睡眠記録, 悪夢]
 publishedAt: 2026-10-19
-updatedAt: 2026-10-19
+updatedAt: 2026-10-30
 author: YUMEMI編集部
 featured: true
 draft: false
@@ -19,6 +19,8 @@ sources:
 まず7日間、1日1〜3分で続けられる量から始めましょう。夢を思い出すことがつらい場合は、内容を書かずに休むことが最優先です。
 
 ## 夢日記をつける目的
+
+意味が気になって記録を始める場合は、[夢の意味・夢占いガイド](/articles/dream-meaning-guide/)で解釈と医学的説明の違いを確認できます。[追いかけられる夢](/articles/chased-dream/)では、夢の細部を決めつけずに振り返る問いを紹介しています。
 
 目的を一つ決めると、記録項目を増やしすぎずに済みます。
 
