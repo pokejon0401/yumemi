@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Analytics from '../components/Analytics.astro';
 import { categories, href } from '../lib';
 interface Props { title?: string; description?: string; image?: string; }
 const {
@@ -25,6 +26,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <title>{title}</title>
+    <Analytics />
   </head>
   <body>
     <div class="announcement">今夜の夢を、明日の味方に。</div>
@@ -39,6 +41,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       <a class="logo" href={href('/')}><span>YUME</span>MI<small>dream & sleep journal</small></a>
       <p>夢から気づいて、眠りを整え、明日の私をつくる。</p>
       <nav><a href={href('/about/')}>運営・編集方針</a><a href={href('/articles/')}>記事一覧</a></nav>
+      {import.meta.env.PUBLIC_GA_MEASUREMENT_ID && <p>アクセス解析にGoogle Analyticsを使用し、Cookieを通じて閲覧情報を収集します。詳しくは<a href="https://policies.google.com/technologies/partner-sites">Googleによるデータの使用</a>をご確認ください。<a href="https://tools.google.com/dlpage/gaoptout">計測を無効にする</a></p>}
       <small>© 2026 YUMEMI</small>
     </footer>
   </body>
